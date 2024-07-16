@@ -1,3 +1,5 @@
+![Badge-Conversor](https://github.com/user-attachments/assets/66dc8b00-a063-4126-94d1-4347160a6786)
+
 Este proyecto es una aplicación simple en Java que permite convertir entre varias monedas usando la API de ExchangeRate-API.
 
 ## Características
